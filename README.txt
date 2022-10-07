@@ -31,6 +31,17 @@
     <version>2.2.0-RELEASE</version>
 </dependency>
 
+<repositories>
+    <repository>
+	<id>maven-central[ÎÈ¶¨·¢ÐÐ°æ2.2.2-RELEASE]</id>
+        <url>https://repo.maven.apache.org/maven2/</url>
+    </repository>
+    <repository>
+        <id>xr-file-service-starter[ÎÈ¶¨·¢ÐÐ°æ2.2.0-RELEASE]</id>
+        <url>https://github.com/Weiyijian/xr-file-service-starter/tree/master/repository/</url>
+    </repository>
+</repositories>
+
 ¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
 ¶þ¡¢application.yml ÅäÖÃÈçÏÂ£¨°´ÕÕÈçÏÂ²ÎÊý·â×°µÄ£¬Îª±ÜÃâÆô¶¯Ê§°Ü£¬½¨ÒéÌîºÃÖ¸¶¨ÅäÖÃÖÐµÄ²ÎÊý¶ÔÓ¦µÄÖµ£©£º
 
