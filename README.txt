@@ -1,4 +1,4 @@
-Ò»¡¢µ¼ÈëÒÀÀµ£¨Ê¹ÓÃÄÄ¸öµÚÈý·½ÎÄ¼þÉÏ´«·þÎñµ¼Èë¶ÔÓ¦µÄÒÀÀµ¾ÍÐÐ£¬²»ÓÃÈ«²¿µ¼Èë£©£º
+ä¸€ã€å¯¼å…¥ä¾èµ–ï¼ˆä½¿ç”¨å“ªä¸ªç¬¬ä¸‰æ–¹æ–‡ä»¶ä¸Šä¼ æœåŠ¡å¯¼å…¥å¯¹åº”çš„ä¾èµ–å°±è¡Œï¼Œä¸ç”¨å…¨éƒ¨å¯¼å…¥ï¼‰ï¼š
 
 <dependency>
     <groupId>io.github.xrfzh.cn</groupId>
@@ -33,17 +33,17 @@
 
 <repositories>
     <repository>
-	<id>maven-central[ÎÈ¶¨·¢ÐÐ°æ2.2.2-RELEASE]</id>
+	<id>maven-central[ç¨³å®šå‘è¡Œç‰ˆ2.2.2-RELEASE]</id>
         <url>https://repo.maven.apache.org/maven2/</url>
     </repository>
     <repository>
-        <id>xr-file-service-starter[ÎÈ¶¨·¢ÐÐ°æ2.2.0-RELEASE]</id>
+        <id>xr-file-service-starter[ç¨³å®šå‘è¡Œç‰ˆ2.2.0-RELEASE]</id>
         <url>https://github.com/Weiyijian/xr-file-service-starter/tree/master/repository/</url>
     </repository>
 </repositories>
 
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-¶þ¡¢application.yml ÅäÖÃÈçÏÂ£¨°´ÕÕÈçÏÂ²ÎÊý·â×°µÄ£¬Îª±ÜÃâÆô¶¯Ê§°Ü£¬½¨ÒéÌîºÃÖ¸¶¨ÅäÖÃÖÐµÄ²ÎÊý¶ÔÓ¦µÄÖµ£©£º
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+äºŒã€application.yml é…ç½®å¦‚ä¸‹ï¼ˆæŒ‰ç…§å¦‚ä¸‹å‚æ•°å°è£…çš„ï¼Œä¸ºé¿å…å¯åŠ¨å¤±è´¥ï¼Œå»ºè®®å¡«å¥½æŒ‡å®šé…ç½®ä¸­çš„å‚æ•°å¯¹åº”çš„å€¼ï¼‰ï¼š
 
 minio:
   accessKey: your accessKey
@@ -56,7 +56,7 @@ aliyun:
   keySecret: your keySecret
   endPoint: oss-cn-shenzhen.aliyuncs.com
   bucketName: weiyijian-upload
-  moduleName: ÎÄ¼þ¼ÐÃû³Æ£¨Èç£ºjava£©
+  moduleName: æ–‡ä»¶å¤¹åç§°ï¼ˆå¦‚ï¼šjavaï¼‰
 
 tencent-cloud:
   secretId: your secretId
@@ -64,31 +64,31 @@ tencent-cloud:
   filePath: https://weiyijian-upload-1312337739.cos.ap-beijing.myqcloud.com
   bucketName: weiyijian-upload-1312337739
   regionName: ap-beijing
-  moduleName: ÎÄ¼þ¼ÐÃû³Æ£¨Èç£ºjava£©
+  moduleName: æ–‡ä»¶å¤¹åç§°ï¼ˆå¦‚ï¼šjavaï¼‰
 
 qiniuyun:
   accessKey: your accessKey
   secretKey: your secretKey
   domainOfBucket: qiniuyun.fzhxfw.xyz
   bucketName: weiyijian-upload
-  # [{'zone0':'»ª¶«'}, {'zone1':'»ª±±'},{'zone2':'»ªÄÏ'},{'zoneNa0':'±±ÃÀ'},{'zoneAs0':'ÆäËû'}]
+  # [{'zone0':'åŽä¸œ'}, {'zone1':'åŽåŒ—'},{'zone2':'åŽå—'},{'zoneNa0':'åŒ—ç¾Ž'},{'zoneAs0':'å…¶ä»–'}]
   zoneName: zone2
-  # Á´½Ó¹ýÆÚÊ±¼ä£¬µ¥Î»ÊÇÃë£¬3600´ú±í1Ð¡Ê±£¬-1´ú±íÓÀ²»¹ýÆÚ
+  # é“¾æŽ¥è¿‡æœŸæ—¶é—´ï¼Œå•ä½æ˜¯ç§’ï¼Œ3600ä»£è¡¨1å°æ—¶ï¼Œ-1ä»£è¡¨æ°¸ä¸è¿‡æœŸ
   expireInSeconds: -1
 
 fdfs:
-  # ·þÎñÆ÷µØÖ·
-  tracker-list: ·þÎñÆ÷IP:22122
-  # Á¬½Ó³¬Ê±
+  # æœåŠ¡å™¨åœ°å€
+  tracker-list: æœåŠ¡å™¨IP:22122
+  # è¿žæŽ¥è¶…æ—¶
   connect-timeout: 60
-  # ¶ÁÈ¡Ê±¼ä
+  # è¯»å–æ—¶é—´
   so-timeout: 60
-  # Éú³ÉËõÂÔÍ¼²ÎÊý
+  # ç”Ÿæˆç¼©ç•¥å›¾å‚æ•°
   thumb-image:
     width: 150
     height: 150
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-Èý¡¢ÔÚ×Ô¼ºµÄÏîÄ¿ÖÐÐÂ½¨Ò»¸öÉ¨Ãè×é¼þµÄ³õÊ¼»¯ÅäÖÃÀà£¬ÄÚÈÝÈçÏÂ£º
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+ä¸‰ã€åœ¨è‡ªå·±çš„é¡¹ç›®ä¸­æ–°å»ºä¸€ä¸ªæ‰«æç»„ä»¶çš„åˆå§‹åŒ–é…ç½®ç±»ï¼Œå†…å®¹å¦‚ä¸‹ï¼š
 
 package com.example.test.config;
 
@@ -97,12 +97,12 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan("com.xr")
-public class initConfig {
+public class InitConfig {
 
 }
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-ËÄ¡¢×¢Èë¶ÔÓ¦µÄÒÀÀµ£¬µ÷ÓÃ¶ÔÓ¦·½·¨¼´¿É£º
-ÀýÈç£º
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+å››ã€æ³¨å…¥å¯¹åº”çš„ä¾èµ–ï¼Œè°ƒç”¨å¯¹åº”æ–¹æ³•å³å¯ï¼š
+ä¾‹å¦‚ï¼š
 
 @Resource
     private AliyunFileService aliyunFileService;
@@ -158,8 +158,8 @@ public class initConfig {
         System.out.println(url);
         return R.okResult().put("url", url);
     }
-×¢Òâ£ºÎÄ¼þµÄÔ¶³Ìurl±»·â×°ÔÚÁËR¶ÔÏóÀïÃæ£¬»ñÈ¡ ÒÑÉÏ´«ÎÄ¼þURL ÐèÒªÊ¹ÓÃHuTool¹¤¾ßÀàµÄMapUtil.getStr(r,"data")»ñÈ¡¡£
-HuToolÒÀÀµ£º
+æ³¨æ„ï¼šæ–‡ä»¶çš„è¿œç¨‹urlè¢«å°è£…åœ¨äº†Rå¯¹è±¡é‡Œé¢ï¼ŒèŽ·å– å·²ä¸Šä¼ æ–‡ä»¶URL éœ€è¦ä½¿ç”¨HuToolå·¥å…·ç±»çš„MapUtil.getStr(r,"data")èŽ·å–ã€‚
+HuToolä¾èµ–ï¼š
       <dependency>
           <groupId>cn.hutool</groupId>
           <artifactId>hutool-all</artifactId>
