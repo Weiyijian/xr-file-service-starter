@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>xr-file-service-starter</artifactId>
+        <groupId>io.github.xrfzh.cn</groupId>
+        <version>2.8.2-RELEASE</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>xr-shortmessage-service-starter</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <tencentcloud-sdk-java.version>3.1.270</tencentcloud-sdk-java.version>
+    </properties>
+
+    <dependencies>
+        <!-- 第三方云厂商相关的依赖 -->
+        <dependency>
+            <groupId>com.tencentcloudapi</groupId>
+            <artifactId>tencentcloud-sdk-java</artifactId>
+            <version>${tencentcloud-sdk-java.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>
