@@ -3,43 +3,73 @@
 <dependency>
     <groupId>io.github.xrfzh.cn</groupId>
     <artifactId>aliyun-file-service-starter</artifactId>
-    <version>2.2.0-RELEASE</version>
+    <version>2.8.2-RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.xrfzh.cn</groupId>
     <artifactId>minio-file-service-starter</artifactId>
-    <version>2.2.0-RELEASE</version>
+    <version>2.8.2-RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.xrfzh.cn</groupId>
     <artifactId>tencentcloud-file-service-starter</artifactId>
-    <version>2.2.0-RELEASE</version>
+    <version>2.8.2-RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.xrfzh.cn</groupId>
     <artifactId>qiniuyun-file-service-starter</artifactId>
-    <version>2.2.0-RELEASE</version>
+    <version>2.8.2-RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.xrfzh.cn</groupId>
     <artifactId>fastdfs-file-service-starter</artifactId>
-    <version>2.2.0-RELEASE</version>
+    <version>2.8.2-RELEASE</version>
 </dependency>
 <dependency>
     <groupId>io.github.xrfzh.cn</groupId>
     <artifactId>xr-common-utils</artifactId>
-    <version>2.2.0-RELEASE</version>
+    <version>2.8.2-RELEASE</version>
+</dependency>
+<dependency>
+    <groupId>io.github.xrfzh.cn</groupId>
+    <artifactId>xr-mail-service-starter</artifactId>
+    <version>2.8.2-RELEASE</version>
+</dependency>
+<dependency>
+    <groupId>io.github.xrfzh.cn</groupId>
+    <artifactId>xr-shortmessage-service-starter</artifactId>
+    <version>2.8.2-RELEASE</version>
+</dependency>
+<dependency>
+    <groupId>io.github.xrfzh.cn</groupId>
+    <artifactId>xr-redis-cache-service-starter</artifactId>
+    <version>2.8.2-RELEASE</version>
 </dependency>
 
 <repositories>
-    <repository>
-	<id>maven-central[稳定发行版2.2.2-RELEASE]</id>
-        <url>https://repo.maven.apache.org/maven2/</url>
-    </repository>
-    <repository>
-        <id>xr-file-service-starter[稳定发行版2.2.0-RELEASE]</id>
-        <url>https://github.com/Weiyijian/xr-file-service-starter/tree/master/repository/</url>
-    </repository>
+	<!-- Maven中央仓库 -->
+	<repository>
+	    <id>maven-central[Maven中央仓库稳定发行版1 2.8.2-RELEASE]</id>
+	    <url>https://repo1.maven.org/maven2/</url>
+	</repository>
+	<repository>
+	    <id>maven-central[Maven中央仓库稳定发行版2 2.8.2-RELEASE]</id>
+	    <url>https://repo.maven.apache.org/maven2/</url>
+	</repository>
+	<!-- Maven快照&发行仓库 -->
+	<repository>
+	    <id>maven-central[Maven快照仓库 2.8.2-RELEASE]</id>
+	    <url>https://s01.oss.sonatype.org/content/repositories/snapshots/</url>
+	</repository>
+	<repository>
+	    <id>maven-central[Maven发行仓库 2.8.2-RELEASE]</id>
+	    <url>https://s01.oss.sonatype.org/content/repositories/releases/</url>
+	</repository>
+	<!-- GitHub仓库 -->
+	<repository>
+	    <id>xr-file-service-starter[GitHub仓库 2.8.2-RELEASE]</id>
+	    <url>https://github.com/Weiyijian/xr-file-service-starter/tree/master/repository/</url>
+	</repository>
 </repositories>
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
